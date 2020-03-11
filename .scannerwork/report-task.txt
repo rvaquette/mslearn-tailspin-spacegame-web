@@ -1,0 +1,7 @@
+organization=rvaquette-1
+projectKey=rvaquette_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.5584
+dashboardUrl=https://sonarcloud.io/dashboard?id=rvaquette_mslearn-tailspin-spacegame-web
+ceTaskId=AXC_y8RlD5DtviJiJn_8
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXC_y8RlD5DtviJiJn_8
